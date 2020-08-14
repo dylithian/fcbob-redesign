@@ -1,8 +1,8 @@
 {
-  "name": "javascript-portfolio",
+  "name": "fcbob-redesign",
   "version": "0.0.1",
   "version-start-commit": "0",
-  "description": "github.com/dylithian/pokemon",
+  "description": "github.com/dylithian/fcbob-redesign",
   "main": "index.js",
   "scripts": {
     "webpack-build": "webpack --mode production",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dylithian/javascript-portfolio"
+    "url": "https://github.com/dylithian/fcbob-redesign"
   },
   "author": "github.com/dylithian",
   "license": "ISC",
